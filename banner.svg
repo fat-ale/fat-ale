@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-label="fat-ale, recruiter who builds his own tools">
+  <rect width="1200" height="300" fill="#0d1117"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="64" y="92" font-size="20" fill="#7d8590">~/turin $ whoami</text>
+    <text x="64" y="160" font-size="56" font-weight="700" fill="#e6edf3">fat-ale</text>
+    <text x="64" y="208" font-size="24" fill="#e6edf3">recruiter who builds his own tools</text>
+    <text x="64" y="252" font-size="20" fill="#3fb950">✓ <tspan fill="#7d8590">not doing this by hand again</tspan><tspan fill="#3fb950">▌</tspan></text>
+  </g>
+  <g fill="#3fb950">
+    <rect x="1000" y="70"  width="18" height="18" rx="3" opacity=".25"/>
+    <rect x="1024" y="70"  width="18" height="18" rx="3" opacity=".5"/>
+    <rect x="1048" y="70"  width="18" height="18" rx="3" opacity=".25"/>
+    <rect x="1072" y="70"  width="18" height="18" rx="3" opacity="1"/>
+    <rect x="1096" y="70"  width="18" height="18" rx="3" opacity=".5"/>
+    <rect x="1000" y="94"  width="18" height="18" rx="3" opacity=".5"/>
+    <rect x="1024" y="94"  width="18" height="18" rx="3" opacity="1"/>
+    <rect x="1048" y="94"  width="18" height="18" rx="3" opacity=".75"/>
+    <rect x="1072" y="94"  width="18" height="18" rx="3" opacity=".25"/>
+    <rect x="1096" y="94"  width="18" height="18" rx="3" opacity=".75"/>
+    <rect x="1000" y="118" width="18" height="18" rx="3" opacity=".25"/>
+    <rect x="1024" y="118" width="18" height="18" rx="3" opacity=".75"/>
+    <rect x="1048" y="118" width="18" height="18" rx="3" opacity="1"/>
+    <rect x="1072" y="118" width="18" height="18" rx="3" opacity=".5"/>
+    <rect x="1096" y="118" width="18" height="18" rx="3" opacity="1"/>
+  </g>
+</svg>
