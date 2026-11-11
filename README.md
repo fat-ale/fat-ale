@@ -1,4 +1,4 @@
-<img src="banner.svg" alt="fat-ale: recruiter who builds his own tools" width="100%">
+<img src="banner.jpg" alt="fat-ale: recruiter who builds his own tools" width="100%">
 
 # Hi, I'm Alessandro
 
