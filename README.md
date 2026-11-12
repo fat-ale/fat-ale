@@ -13,6 +13,7 @@ Nothing here was planned as a product. Every repo started the same way: *I'm not
 | Project | What it does | What it replaces |
 |---|---|---|
 | [**Unseated**](https://github.com/fat-ale/unseated) | Outbound sourcing from a job description: search, ranked shortlist, outreach in your voice, with a human approval gate before anyone gets contacted | A LinkedIn Recruiter seat |
+| [**Perks Portal**](https://github.com/fat-ale/perks-portal) | Employee experiences portal: a short catalog of real things to do, picked by HR, redeemed in two clicks or given to a colleague. Case study, code private | A welfare wallet nobody opens |
 
 ## How I build
 
